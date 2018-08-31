@@ -1,5 +1,5 @@
 
-## HEllo World
+## Hello World
 
 ### App Description
 This App is able to show the text you typed in on a lable. It can also change the lable's text color, the background color. 
