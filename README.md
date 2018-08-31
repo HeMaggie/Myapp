@@ -1,6 +1,4 @@
-# Myapp
-My first repository on Github
-I love programming.
+
 ## HEllo World
 
 ### App Description
