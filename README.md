@@ -2,8 +2,7 @@
 ## Hello World
 
 ### App Description
-This App is able to show the text you typed in on a lable. It can also change the lable's text color, the background color. 
-Tapping on the background view enables it to reset all views to default settings.
+This App is able to show the text you typed in on a lable. It is also able to change the lable's text color and the background color. Tapping on the background view enables it to reset all views to default settings.
 
 ### App Walk-though
 
